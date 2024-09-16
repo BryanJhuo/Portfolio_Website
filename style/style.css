@@ -114,6 +114,9 @@ body main section.resume section.table table tr:hover {
 body main section.resume section.table table tr td {
   padding: 1rem;
 }
+body main section.resume section.table table tr td ol li {
+  padding: 0.3rem;
+}
 body main section.resume section.picture {
   flex: 1 1 500px;
   display: flex;
